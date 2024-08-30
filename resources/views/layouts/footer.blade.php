@@ -18,7 +18,7 @@
             <div class="col-md-6 col-lg-6 col-xl-6">
                 <div class="footer-item d-flex flex-column">
                     <h4 class="mb-4 text-white">ติดต่อเรา</h4>
-                    สำนักงานสาธารณสุขจังหวัดเชียงใหม่ 10 ถ.สุเทพ ต.สุเทพ อ.เมือง จ.เชียงใหม่ 50200
+                    สำนักงานสาธารณสุขจังหวัดเชียงใหม่ : เลขที่ 88/1 หมู่ที่ 3 <br> ตำบลดอนแก้ว อำเภอแม่ริม จังหวัดเชียงใหม่ รหัสไปรษณีย์ 50180
                     <span class="mb-1">
                         <i class="fas fa-phone-square-alt"></i> โทรศัพท์ : 053-211048-311 ถึง 313
                     </span>
@@ -26,7 +26,7 @@
                         <i class="fas fa-fax"></i> โทรสาร : 053-211740
                     </span>
                     <span class="mb-1">
-                        <i class="fas fa-envelope"></i> E-mail : saraban-cmi@moph.go.th
+                        <i class="fas fa-envelope"></i> E-mail : foreignhealthservicefhscc@gmail.com
                     </span>
                 </div>
             </div>
