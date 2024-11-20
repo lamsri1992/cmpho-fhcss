@@ -23,6 +23,11 @@ class FrontEndController extends Controller
         return view('front.forensics');
     }
 
+    public function healthservice()
+    {
+        return view('front.healthservice');
+    }
+
     public function servicePoint()
     {
         $data = DB::table('role_page')->where('role_id',2)->first();

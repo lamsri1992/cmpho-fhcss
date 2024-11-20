@@ -55,6 +55,7 @@
                             <div class="dropdown-menu m-0 bg-secondary rounded-0" style="font-size: 18px;">
                                 <a href="{{ route('manual') }}" class="dropdown-item">คู่มือให้บริการชาวต่างชาติ</a>
                                 <a href="{{ route('forensics') }}" class="dropdown-item">แนวทางปฏิบัตินิติเวชสำหรับชาวต่างชาติ</a>
+                                <a href="{{ route('healthservice') }}" class="dropdown-item">แนวทางการพัฒนาระบบบริการชาวสุขภาพแก่นักท่องเที่ยวต่างชาติ</a>
                             </div>
                         </div>
                         <a href="{{ route('service') }}" class="nav-item nav-link">

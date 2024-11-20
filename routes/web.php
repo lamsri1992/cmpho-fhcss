@@ -32,6 +32,7 @@ Route::prefix('th')->group(function () {
     Route::get('service',[FrontEndController::class, 'service'])->name('service');
     Route::get('forensics',[FrontEndController::class, 'forensics'])->name('forensics');
     Route::get('servicepoint',[FrontEndController::class, 'servicepoint'])->name('servicepoint');
+    Route::get('healthservice',[FrontEndController::class, 'healthservice'])->name('healthservice');
     Route::get('manual',[FrontEndController::class, 'manual'])->name('manual');
     Route::get('news',[FrontEndController::class, 'news'])->name('news');
     Route::get('news/{id}',[FrontEndController::class, 'newsView'])->name('front.news.view');
